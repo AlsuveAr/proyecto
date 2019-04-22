@@ -1,0 +1,15 @@
+html #app {
+	scroll-behavior: smooth;
+}
+
+body #app  {
+	background-color: #f5f5f5 ;
+	min-height: 100vh;
+} 
+//Estilos para "/"
+ #header .header {
+    position: absolute;
+    top: 25%;
+    //left: 25%;
+    color: white !important;
+}
